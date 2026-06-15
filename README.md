@@ -4,14 +4,14 @@
 
 ![Followers](https://img.shields.io/github/followers/rohailk6?label=Follow&style=social)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/rohailk6/rohailk6)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)
-![Email](https://img.shields.io/badge/Email-rohailnawaz%40example.com-red)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rohail-nawaz)
+[![Email](https://img.shields.io/badge/Email-rohailn76%40gmail.com-red)](mailto:rohailn76@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A0A0A&width=600&lines=Hi,+I'm+Rohail+Nawaz;I+build+web+apps+and+solve+algorithms)](https://git.io/typing-svg)
 
 🔭 I build practical web applications and maintain clean algorithmic solutions. I like working on end-to-end features — from UI to server and the data layer.
 
-**Contact**: [GitHub](https://github.com/rohailk6) · [Email](mailto:rohailnawaz@example.com)
+**Contact**: [GitHub](https://github.com/rohailk6) · [Email](mailto:rohailn76@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rohail-nawaz)
 ---
 
 ## 🚀 Featured Projects
@@ -42,4 +42,3 @@ HTML · CSS · JavaScript · C++ · Python · Git · Cisco Packet Tracer
 
 ---
 
-If you'd like, I can add live demos, better project screenshots, badges, and automatic stats icons. I can also create a small GitHub Pages portfolio site from these projects.
