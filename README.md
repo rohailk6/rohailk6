@@ -1,39 +1,35 @@
 # Rohail Nawaz
 
-Full‑stack developer with strong interests in algorithms, web development, and systems. Based in Islamabad, Pakistan — open to internships and junior developer roles.
+### Full Stack Developer · Islamabad, Pakistan
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A0A0A&width=600&lines=Hi,+I'm+Rohail+Nawaz;I+build+web+apps+and+solve+algorithms)](https://git.io/typing-svg)
+
+🔭 I build practical web applications and maintain clean algorithmic solutions. I like working on end-to-end features — from UI to server and the data layer.
+
+**Contact**: [GitHub](https://github.com/rohailk6) · [Email](mailto:rohailnawaz@example.com)
 
 ---
 
-**About Me**
+## 🚀 Featured Projects
 
-- I build clean, maintainable projects focused on practical problems.
-- I enjoy algorithmic problem solving (LeetCode) and building small full-stack apps.
-- CV available on request or inside this workspace.
-
----
-
-**Tech Stack**
-
-- Frontend: HTML, CSS, JavaScript
-- Languages: C++, Python, JavaScript
-- Tools: Git, VS Code, Cisco Packet Tracer (networking projects)
+- [VideoEditing-Portfolio](https://github.com/rohailk6/VideoEditing-Portfolio) — Static portfolio showcasing video editing samples and embeds.
+- [Leetcode-solutions](https://github.com/rohailk6/Leetcode-solutions) — Curated algorithm solutions with clear explanations (C++).
+- [Cisco_RIP_LAN_Connectivity](https://github.com/rohailk6/Cisco_RIP_LAN_Connectivity) — Network topology and RIP configuration in Cisco Packet Tracer.
+- [HTML-Newspaper-RohailNawaz_22P9367](https://github.com/rohailk6/HTML-Newspaper-RohailNawaz_22P9367) — Class project: responsive newspaper layout.
+- [RohailNawaz_22P9367_Sticky_Notes](https://github.com/rohailk6/RohailNawaz_22P9367_Sticky_Notes) — Simple sticky notes app (Python).
 
 ---
 
-**Featured Projects**
+## ⚡ Tech Stack
 
-- **VideoEditing-Portfolio** — A static portfolio showcasing video editing work and examples. https://github.com/rohailk6/VideoEditing-Portfolio
-- **Leetcode-solutions** — Clean algorithm solutions and explanations (C++). https://github.com/rohailk6/Leetcode-solutions
-- **Cisco_RIP_LAN_Connectivity** — Network topology project using Cisco Packet Tracer demonstrating RIP configuration.
-  https://github.com/rohailk6/Cisco_RIP_LAN_Connectivity
+HTML · CSS · JavaScript · C++ · Python · Git · Cisco Packet Tracer
 
 ---
 
-**More**
+## 📊 GitHub
 
-- GitHub: https://github.com/rohailk6
-- Location: Islamabad, Pakistan
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohailk6&show_icons=true&theme=default)
 
 ---
 
-Thanks for visiting — feel free to reach out for collaboration or opportunities.
+If you'd like, I can add live demos, better project screenshots, badges, and automatic stats icons. I can also create a small GitHub Pages portfolio site from these projects.
