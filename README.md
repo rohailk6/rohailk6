@@ -1,44 +1,61 @@
-# Rohail Nawaz
+<div align="center">
 
-### Full Stack Developer · Islamabad, Pakistan
+<img src="./assets/header.svg" width="860" alt="Hello, I’m Rohail. Full-stack developer in Islamabad. From interface to API." />
 
-![Followers](https://img.shields.io/github/followers/rohailk6?label=Follow&style=social)
-![GitHub Repo Size](https://img.shields.io/github/repo-size/rohailk6/rohailk6)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/rohail-nawaz)
-[![Email](https://img.shields.io/badge/Email-rohailn76%40gmail.com-red)](mailto:rohailn76@gmail.com)
+### `rohail@github ~ $ ./contributions.sh`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A0A0A&width=600&lines=Hi,+I'm+Rohail+Nawaz;I+build+web+apps+and+solve+algorithms)](https://git.io/typing-svg)
+<img src="./contrib-heatmap.svg" width="860" alt="Rohail's contribution calendar, refreshed daily" />
 
-🔭 I build practical web applications and maintain clean algorithmic solutions. I like working on end-to-end features — from UI to server and the data layer.
+<br><br>
 
-**Contact**: [GitHub](https://github.com/rohailk6) · [Email](mailto:rohailn76@gmail.com) · [LinkedIn](https://www.linkedin.com/in/rohail-nawaz)
----
+### `rohail@github ~ $ whoami`
 
-## 🚀 Featured Projects
+<table>
+  <tr>
+    <td valign="top"><img src="./portrait.svg" width="370" alt="ASCII portrait of Rohail Nawaz" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Rohail Nawaz — Full-stack developer in Islamabad, Pakistan. Python, TypeScript, C++. Building web apps and backend APIs." /></td>
+  </tr>
+</table>
 
-- [VideoEditing-Portfolio](https://github.com/rohailk6/VideoEditing-Portfolio) — Static portfolio showcasing video editing samples and embeds.
-- [Leetcode-solutions](https://github.com/rohailk6/Leetcode-solutions) — Curated algorithm solutions with clear explanations (C++).
-- [Cisco_RIP_LAN_Connectivity](https://github.com/rohailk6/Cisco_RIP_LAN_Connectivity) — Network topology and RIP configuration in Cisco Packet Tracer.
-- [HTML-Newspaper-RohailNawaz_22P9367](https://github.com/rohailk6/HTML-Newspaper-RohailNawaz_22P9367) — Class project: responsive newspaper layout.
-- [RohailNawaz_22P9367_Sticky_Notes](https://github.com/rohailk6/RohailNawaz_22P9367_Sticky_Notes) — Simple sticky notes app (Python).
+I build practical web applications, from the UI to the server and data layer.
 
----
+[GitHub](https://github.com/rohailk6) · [LinkedIn](https://www.linkedin.com/in/rohail-nawaz) · [Email](mailto:rohailn76@gmail.com)
 
-## ⚡ Tech Stack
+</div>
 
-HTML · CSS · JavaScript · C++ · Python · Git · Cisco Packet Tracer
+<div align="center">
 
----
+### `rohail@github ~ $ cat stack.txt`
 
-## 📊 GitHub
+<img src="./assets/stack.svg" width="860" alt="Python, TypeScript, JavaScript, C++, HTML, CSS. FastAPI, PostgreSQL, Qdrant, RAG. Git, Cisco Packet Tracer, algorithms and networking." />
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohailk6&show_icons=true&theme=default)
+### `rohail@github ~ $ ls projects/`
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohailk6&layout=compact&theme=default)](https://github.com/rohailk6)
+<a href="https://github.com/rohailk6/podcast-rag-api"><img src="./assets/project-rag.svg" width="424" alt="podcast-rag-api: Podcast transcript RAG API — Python, FastAPI, Qdrant. Explore repository." /></a>
+<a href="https://github.com/rohailk6/dev-events"><img src="./assets/project-events.svg" width="424" alt="dev-events: Developer events hub — TypeScript. Explore repository." /></a>
+<br>
+<a href="https://github.com/rohailk6/Leetcode-solutions"><img src="./assets/project-algorithms.svg" width="424" alt="Leetcode-solutions: Algorithms and data structures — C++. Explore repository." /></a>
+<a href="https://github.com/rohailk6/VideoEditing-Portfolio"><img src="./assets/project-creative.svg" width="424" alt="VideoEditing-Portfolio: Video editing portfolio — HTML. Explore repository." /></a>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rohailk6&theme=default)](https://git.io/streak-stats)
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=rohailk6&theme=flat&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<details>
+<summary>More projects & tools</summary>
 
----
+- [Cisco RIP LAN connectivity](https://github.com/rohailk6/Cisco_RIP_LAN_Connectivity) — Three LANs connected with RIP routing.
+- [Responsive newspaper layout](https://github.com/rohailk6/HTML-Newspaper-RohailNawaz_22P9367)
+- [Python sticky notes app](https://github.com/rohailk6/RohailNawaz_22P9367_Sticky_Notes)
 
+Python · TypeScript · JavaScript · C++ · HTML · CSS · Git · Cisco Packet Tracer
+
+</details>
+
+<br>
+
+<div align="center">
+
+<img src="./assets/connect.svg" width="860" alt="Let’s talk code, projects, and ideas. Connect using the links below." />
+
+**[GitHub](https://github.com/rohailk6) · [LinkedIn](https://www.linkedin.com/in/rohail-nawaz) · [Email](mailto:rohailn76@gmail.com)**
+
+</div>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="176" viewBox="0 0 860 176" role="img">
+<title>./connect</title>
+<style>text{font-family:ui-monospace,Menlo,Consolas,monospace} .reveal{animation:reveal .65s both} @keyframes reveal{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:translateY(0)}} @media(prefers-reduced-motion:reduce){.reveal{animation:none}}</style>
+<rect x=".5" y=".5" width="859" height="175" rx="12" fill="#0d1117" stroke="#30363d"/>
+<path d="M1 40H859" stroke="#30363d"/>
+<circle cx="19" cy="20" r="4" fill="#ff5f57"/><circle cx="34" cy="20" r="4" fill="#febc2e"/><circle cx="49" cy="20" r="4" fill="#28c840"/>
+<text x="68" y="24" fill="#8b949e" font-size="11">./connect</text><text x="28" y="83" fill="#e6edf3" font-size="23">Let’s talk code, projects, and ideas.</text><text x="28" y="115" fill="#8b949e" font-size="13">Find me on GitHub or LinkedIn, or send an email below.</text><text x="28" y="149" fill="#56d364" font-size="13">rohail@github ~ $ _</text></svg>
