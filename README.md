@@ -29,14 +29,6 @@ I build practical web applications, from the UI to the server and data layer.
 
 <img src="./assets/stack.svg" width="860" alt="Python, TypeScript, JavaScript, C++, HTML, CSS. FastAPI, PostgreSQL, Qdrant, RAG. Git, Cisco Packet Tracer, algorithms and networking." />
 
-### `rohail@github ~ $ ls projects/`
-
-<a href="https://github.com/rohailk6/podcast-rag-api"><img src="./assets/project-rag.svg" width="424" alt="podcast-rag-api: Podcast transcript RAG API — Python, FastAPI, Qdrant. Explore repository." /></a>
-<a href="https://github.com/rohailk6/dev-events"><img src="./assets/project-events.svg" width="424" alt="dev-events: Developer events hub — TypeScript. Explore repository." /></a>
-<br>
-<a href="https://github.com/rohailk6/Leetcode-solutions"><img src="./assets/project-algorithms.svg" width="424" alt="Leetcode-solutions: Algorithms and data structures — C++. Explore repository." /></a>
-<a href="https://github.com/rohailk6/VideoEditing-Portfolio"><img src="./assets/project-creative.svg" width="424" alt="VideoEditing-Portfolio: Video editing portfolio — HTML. Explore repository." /></a>
-
 </div>
 
 <details>
